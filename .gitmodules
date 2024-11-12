@@ -1,0 +1,3 @@
+[submodule "money_tracker"]
+	path = money_tracker
+	url = ./money_tracker
